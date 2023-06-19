@@ -16,3 +16,5 @@
   - [Web development projects](https://github.com/prashantjagtap2909/Web-development-Projects)
 
   - [Artificial intelligence - AI](https://github.com/prashantjagtap2909/Artificial-Intelligence)
+
+  - [CS Fundamental resources]()
