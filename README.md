@@ -5,7 +5,7 @@
 
   - [Google cloud platform - GCP](https://github.com/prashantjagtap2909/GCP)
 
-  - [Full stack web development](https://github.com/prashantjagtap2909/Full-stack-web-development)
+  - [Full stack web development notes](https://github.com/prashantjagtap2909/Full-stack-web-development)
 
   - [DSBDA practical](https://github.com/prashantjagtap2909/DSBDA-practical-)
 
