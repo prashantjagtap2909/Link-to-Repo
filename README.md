@@ -18,3 +18,5 @@
   - [Artificial intelligence - AI](https://github.com/prashantjagtap2909/Artificial-Intelligence)
 
   - [CS Fundamental resources]()
+
+  - [CS50 - Handwritten notes]()
