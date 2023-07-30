@@ -19,4 +19,4 @@
 
   - [CS Fundamental resources]()
 
-  - [CS50 - Handwritten notes]()
+  - [CS50 - Handwritten notes](https://github.com/prashantjagtap2909/cs50)
