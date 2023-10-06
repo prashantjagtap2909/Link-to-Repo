@@ -19,7 +19,7 @@
 
   - [CS Fundamental resources]()
 
-  - [CS50 - Handwritten notes](https://github.com/prashantjagtap2909/cs50
+  - [CS50 - Handwritten notes](https://github.com/prashantjagtap2909/cs50)
 
   - [Scalar Challenge]()
   
