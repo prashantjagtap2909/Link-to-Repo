@@ -9,7 +9,7 @@
 
   - [DSBDA practical](https://github.com/prashantjagtap2909/DSBDA-practical-)
 
-  - [125 days of code](https://github.com/prashantjagtap2909/125-Days-of-Code)
+  - [50 days of code](https://github.com/prashantjagtap2909/125-Days-of-Code)
 
   - [DSA problems](https://github.com/prashantjagtap2909/DSA)
 
