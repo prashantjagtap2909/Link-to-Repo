@@ -21,8 +21,6 @@
 
   - [CS50 - Handwritten notes](https://github.com/prashantjagtap2909/cs50)
 
-  - [Scalar Challenge]()
-  
   - [Connecting ](https://github.com/prashantjagtap2909/Connecting)
 
   - [DAA](https://github.com/prashantjagtap2909/DAA)
