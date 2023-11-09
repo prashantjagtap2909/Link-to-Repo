@@ -25,5 +25,5 @@
 
   - [DAA](https://github.com/prashantjagtap2909/DAA)
 
-  - [Machine learning practicals]()
+  - [Machine learning practicals](https://github.com/prashantjagtap2909/Machine-Learning)
 
