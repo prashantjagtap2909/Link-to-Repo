@@ -27,5 +27,5 @@
 
   - [Machine learning practicals](https://github.com/prashantjagtap2909/Machine-Learning)
 
-  - [Leetcode Daily]()
+  - [Leetcode Daily](https://github.com/prashantjagtap2909/LeetCode-POTD)
 
