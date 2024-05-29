@@ -29,7 +29,7 @@
 
   - [Leetcode Daily](https://github.com/prashantjagtap2909/LeetCode-POTD)
 
-  - [Object Oriented Programming]()
+  - [Object Oriented Programming](https://github.com/prashantjagtap2909/OOP)
 
   - [Full stack Java development]()
 
